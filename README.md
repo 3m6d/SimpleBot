@@ -1,6 +1,6 @@
 # SimpleBot
 
-SimpleBot is a conversational bot designed to provide information about its creator, Dipawoli Malla. It is built in Python and utilizes regular expressions to understand and respond to user input.
+SimpleBot is a conversational rule based chatbot designed to provide information about its creator, Dipawoli Malla. It is built in Python and utilizes regular expressions to understand and respond to user input.
 
 ## Features
 - Answer questions about Dipawoli Malla's academic and professional background.
