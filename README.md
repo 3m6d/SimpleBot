@@ -12,6 +12,22 @@ SimpleBot is a conversational bot designed to provide information about its crea
 - Python 3.x
 
 ### Installation
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/SimpleBot.git
+1. Clone the repository:
+bash
+ git clone https://github.com/3m6d/SimpleBot.git
+
+2. Run the script
+
+## Usage
+Just start the script and interact with the bot according to the prompts.
+
+## Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+Dipawoli Malla - dipawolimalla333@gmail.com
+
+
